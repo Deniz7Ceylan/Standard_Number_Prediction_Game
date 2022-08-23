@@ -1,0 +1,8 @@
+C:\Users\deniz\source\repos\TahminOyunu\TahminOyunu\bin\Debug\TahminOyunu.exe.config
+C:\Users\deniz\source\repos\TahminOyunu\TahminOyunu\bin\Debug\TahminOyunu.exe
+C:\Users\deniz\source\repos\TahminOyunu\TahminOyunu\bin\Debug\TahminOyunu.pdb
+C:\Users\deniz\source\repos\TahminOyunu\TahminOyunu\obj\Debug\TahminOyunu.csproj.AssemblyReference.cache
+C:\Users\deniz\source\repos\TahminOyunu\TahminOyunu\obj\Debug\TahminOyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\deniz\source\repos\TahminOyunu\TahminOyunu\obj\Debug\TahminOyunu.csproj.CoreCompileInputs.cache
+C:\Users\deniz\source\repos\TahminOyunu\TahminOyunu\obj\Debug\TahminOyunu.exe
+C:\Users\deniz\source\repos\TahminOyunu\TahminOyunu\obj\Debug\TahminOyunu.pdb
